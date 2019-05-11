@@ -52,11 +52,19 @@ A lightweight Python tool for converting quantities between defined units.
 
 #### RS&H, Inc. | Orlando, FL
 
+* Constructed 3D models to ensure efficient utilization of right of way and design standards
+* Produced 2-week scheduled development plans for 3-4 engineers 
+* Used Python and ArcGIS to export geospatial data to Excel calculations
+
 January 2018 - Present
 
 ### Engineer II
 
 #### RS&H, Inc. | Jacksonville, FL
+
+* Created scripts to automate CAD standard quality assurance (Heavily utilized by other engineers)
+* Led efforts within company to transition from 2D to 3D based civil design
+* Developed methodology for calculating river turbidity during construction with Excel VBA using an iterative process
 
 September 2014 - January 2018
 
@@ -64,11 +72,17 @@ September 2014 - January 2018
 
 #### Atkins Global | Pensacola, FL
 
+* Programmed macros using VBA and Excel to automate generation of table-based computations
+* Became primary EIT level engineer performing hydrology and other drainage calculations within firm
+
 March 2013 - September 2014
 
 ### Civil Engineering Intern
 
 #### Capital Engineering & Surveying, Inc. | Tallahassee, FL
+
+* Used ArcGIS and AutoCAD Civil 3D to map storm system pipe defects by priority
+* Utilized AutoCAD Civil 3D to calculate and organize depth-based prices for rehabilitation bids
 
 September 2012 - February 2013
 
