@@ -1,6 +1,6 @@
 # Portfolio | Ben Miller
 
-Orlando, FL 32801 · (951) 757-9523 · [mail@benkmiller.com](mailto:mail@benkmiller.com)
+Orlando, FL 32801 · [mail@benkmiller.com](mailto:mail@benkmiller.com)
 
 From [engineering infrastructure](https://benjiyamin.github.io/Portfolio/#experience) to software, I've always enjoyed solving problems through technology and I've picked up [some skills](#skills) along the way. Check out some of [my projects](#projects) or [download my resume](assets/pdf/resume.pdf).
 
